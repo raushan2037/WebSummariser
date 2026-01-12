@@ -25,7 +25,7 @@ def fetch_url(url):
 
 
 def generate_summary(url):
-    API_KEY = "AIzaSyBglTlrnOC5w3P6KPHfpSOBNOrEroShIWY"
+    API_KEY = "API Key"
 
     client = genai.Client(api_key = API_KEY)
 
